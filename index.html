@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Course Completion Analysis | Interactive Dashboard</title>
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { background-color: #f8f9fa; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+        .hero { background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); color: white; padding: 40px 0; border-radius: 0 0 20px 20px; margin-bottom: 30px; }
+        .metric-card { border-radius: 12px; border: none; box-shadow: 0 4px 12px rgba(0,0,0,0.06); transition: transform 0.2s; }
+        .metric-card:hover { transform: translateY(-3px); }
+        .metric-val { font-size: 2.2rem; font-weight: 700; }
+        .chart-card { border-radius: 12px; border: none; box-shadow: 0 4px 15px rgba(0,0,0,0.07); padding: 20px; background: white; margin-bottom: 25px; }
+        .badge-completed { background-color: #28a745; color: white; }
+        .badge-incomplete { background-color: #dc3545; color: white; }
+    </style>
+</head>
+<body>
+
+    <!-- Hero Header -->
+    <div class="hero text-center">
+        <div class="container">
+            <h1 class="fw-bold mb-2">🎓 Online Course Completion Analysis</h1>
+            <p class="lead mb-0">Interactive Data Science Dashboard | Student Retention & Course Performance Analytics</p>
+            <div class="mt-3">
+                <span class="badge bg-light text-dark px-3 py-2 me-2">Python 3.14</span>
+                <span class="badge bg-light text-dark px-3 py-2 me-2">Pandas & NumPy</span>
+                <span class="badge bg-light text-dark px-3 py-2">600 Verified Enrollments</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="container pb-5">
+
+        <!-- KPI Metric Row -->
+        <div class="row g-4 mb-4">
+            <div class="col-md-3">
+                <div class="card metric-card text-center p-3 border-start border-primary border-4">
+                    <span class="text-muted fw-bold">TOTAL ENROLLMENTS</span>
+                    <span class="metric-val text-primary">600</span>
+                    <small class="text-muted">Across 8 Courses</small>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card metric-card text-center p-3 border-start border-success border-4">
+                    <span class="text-muted fw-bold">COURSES COMPLETED</span>
+                    <span class="metric-val text-success">338</span>
+                    <small class="text-success fw-bold">56.33% Completion Rate</small>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card metric-card text-center p-3 border-start border-danger border-4">
+                    <span class="text-muted fw-bold">COURSES INCOMPLETE</span>
+                    <span class="metric-val text-danger">262</span>
+                    <small class="text-danger fw-bold">43.67% Drop-off Rate</small>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card metric-card text-center p-3 border-start border-warning border-4">
+                    <span class="text-muted fw-bold">AVG STUDENT PROGRESS</span>
+                    <span class="metric-val text-warning">74.21%</span>
+                    <small class="text-muted">Modules Completed Avg</small>
+                </div>
+            </div>
+        </div>
+
+        <!-- Highlight Callouts -->
+        <div class="row g-3 mb-4">
+            <div class="col-md-6">
+                <div class="alert alert-success d-flex align-items-center shadow-sm" role="alert">
+                    <div class="fs-1 me-3">🏆</div>
+                    <div>
+                        <h6 class="alert-heading fw-bold mb-1">Highest Completion Rate</h6>
+                        <div><strong>Digital Marketing Strategies:</strong> 80.30% Completion (53 / 66 completed, 8 modules)</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="alert alert-danger d-flex align-items-center shadow-sm" role="alert">
+                    <div class="fs-1 me-3">⚠️</div>
+                    <div>
+                        <h6 class="alert-heading fw-bold mb-1">Lowest Completion Rate</h6>
+                        <div><strong>Machine Learning & Deep Learning:</strong> 30.16% Completion (19 / 63 completed, 16 modules)</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Visualizations Row 1 -->
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="chart-card">
+                    <h5 class="fw-bold mb-3 text-secondary">📊 Student Enrollment by Course</h5>
+                    <canvas id="enrollmentChart" height="150"></canvas>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="chart-card">
+                    <h5 class="fw-bold mb-3 text-secondary">🥧 Overall Completion Status</h5>
+                    <canvas id="pieChart" height="200"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Visualizations Row 2 -->
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="chart-card">
+                    <h5 class="fw-bold mb-3 text-secondary">📈 Course-wise Completion Rates (%)</h5>
+                    <canvas id="courseRateChart" height="180"></canvas>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="chart-card">
+                    <h5 class="fw-bold mb-3 text-secondary">🏷️ Completion Rates by Category (%)</h5>
+                    <canvas id="categoryRateChart" height="180"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Performance Summary Table -->
+        <div class="chart-card">
+            <h5 class="fw-bold mb-3 text-secondary">📑 Comprehensive Course Performance Summary</h5>
+            <div class="table-responsive">
+                <table class="table table-hover align-middle">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Rank</th>
+                            <th>Course Name</th>
+                            <th>Category</th>
+                            <th>Enrollments</th>
+                            <th>Total Modules</th>
+                            <th>Completed</th>
+                            <th>Incomplete</th>
+                            <th>Avg Progress</th>
+                            <th>Completion Rate</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>🥇 1</td><td class="fw-bold">Digital Marketing Strategies</td><td><span class="badge bg-info text-dark">Business</span></td><td>66</td><td>8</td><td>53</td><td>13</td><td>88.45%</td><td><span class="badge bg-success fs-6">80.30%</span></td></tr>
+                        <tr><td>🥈 2</td><td class="fw-bold">Product Management Essentials</td><td><span class="badge bg-info text-dark">Business</span></td><td>58</td><td>8</td><td>40</td><td>18</td><td>78.88%</td><td><span class="badge bg-success fs-6">68.97%</span></td></tr>
+                        <tr><td>🥉 3</td><td class="fw-bold">Python for Beginners</td><td><span class="badge bg-primary">Programming</span></td><td>122</td><td>10</td><td>81</td><td>41</td><td>79.51%</td><td><span class="badge bg-success fs-6">66.39%</span></td></tr>
+                        <tr><td>4</td><td class="fw-bold">Java Programming Fundamentals</td><td><span class="badge bg-primary">Programming</span></td><td>59</td><td>12</td><td>34</td><td>25</td><td>72.60%</td><td><span class="badge bg-warning text-dark fs-6">57.63%</span></td></tr>
+                        <tr><td>5</td><td class="fw-bold">Frontend with React & UI Design</td><td><span class="badge bg-secondary">Web Dev</span></td><td>53</td><td>10</td><td>27</td><td>26</td><td>76.79%</td><td><span class="badge bg-warning text-dark fs-6">50.94%</span></td></tr>
+                        <tr><td>6</td><td class="fw-bold">Full-Stack Web Development</td><td><span class="badge bg-secondary">Web Dev</span></td><td>90</td><td>15</td><td>43</td><td>47</td><td>71.48%</td><td><span class="badge bg-danger fs-6">47.78%</span></td></tr>
+                        <tr><td>7</td><td class="fw-bold">Data Science with Python</td><td><span class="badge bg-dark">Data Science</span></td><td>89</td><td>14</td><td>41</td><td>48</td><td>65.49%</td><td><span class="badge bg-danger fs-6">46.07%</span></td></tr>
+                        <tr><td>⚠️ 8</td><td class="fw-bold">Machine Learning & Deep Learning</td><td><span class="badge bg-dark">Data Science</span></td><td>63</td><td>16</td><td>19</td><td>44</td><td>60.32%</td><td><span class="badge bg-danger fs-6">30.16%</span></td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Chart.js Scripts -->
+    <script>
+        // 1. Enrollment Chart
+        new Chart(document.getElementById('enrollmentChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Python for Beginners', 'Full-Stack Web Dev', 'Data Science w/ Python', 'Digital Marketing', 'ML & Deep Learning', 'Java Fundamentals', 'Product Management', 'Frontend w/ React'],
+                datasets: [{
+                    label: 'Students Enrolled',
+                    data: [122, 90, 89, 66, 63, 59, 58, 53],
+                    backgroundColor: '#3498db'
+                }]
+            },
+            options: { indexAxis: 'y', responsive: true, plugins: { legend: { display: false } } }
+        });
+
+        // 2. Pie Chart
+        new Chart(document.getElementById('pieChart'), {
+            type: 'pie',
+            data: {
+                labels: ['Completed (56.3%)', 'Incomplete (43.7%)'],
+                datasets: [{
+                    data: [338, 262],
+                    backgroundColor: ['#2ecc71', '#e74c3c']
+                }]
+            },
+            options: { responsive: true }
+        });
+
+        // 3. Course Rate Chart
+        new Chart(document.getElementById('courseRateChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Digital Marketing', 'Product Mgmt', 'Python Beginners', 'Java', 'Frontend React', 'Full-Stack', 'Data Science', 'Machine Learning'],
+                datasets: [{
+                    label: 'Completion Rate (%)',
+                    data: [80.3, 68.97, 66.39, 57.63, 50.94, 47.78, 46.07, 30.16],
+                    backgroundColor: ['#27ae60', '#27ae60', '#27ae60', '#f39c12', '#f39c12', '#e74c3c', '#e74c3c', '#e74c3c']
+                }]
+            },
+            options: { responsive: true, scales: { y: { beginAtZero: true, max: 100 } } }
+        });
+
+        // 4. Category Rate Chart
+        new Chart(document.getElementById('categoryRateChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Business & Marketing', 'Programming', 'Web Development', 'Data Science'],
+                datasets: [{
+                    label: 'Category Completion Rate (%)',
+                    data: [75.0, 63.54, 48.95, 39.47],
+                    backgroundColor: ['#8e44ad', '#2980b9', '#16a085', '#d35400']
+                }]
+            },
+            options: { responsive: true, scales: { y: { beginAtZero: true, max: 100 } } }
+        });
+    </script>
+</body>
+</html>

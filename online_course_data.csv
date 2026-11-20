@@ -1,0 +1,606 @@
+Student ID,Student Name,Course Name,Course Category,Enrollment Date,Total Modules,Completed Modules,Completion Status,Completion Percentage
+STU1001,Neha Sharma,Data Science with Python,Data Science,2024-04-01,14,14.0,Completed,100.0
+STU1002,Emma Singh,Product Management Essentials,Business & Marketing,2024-01-22,8,8.0,Completed,100.0
+STU1003,Karan Mehta,Frontend with React & UI Design,Web Development,2024-01-01,10,10.0,Completed,100.0
+STU1004,Vikram Thomas,Full-Stack Web Development,Web Development,2024-06-03,15,9.0,Incomplete,60.0
+STU1005,Sneha Davis,Python for Beginners,Programming,2024-02-16,10,10.0,Completed,100.0
+STU1006,Zoe Patel,Python for Beginners,Programming,2024-02-25,10,10.0,Completed,100.0
+STU1007,Ananya Verma,Python for Beginners,Programming,2024-02-16,10,7.0,Incomplete,70.0
+STU1008,Tanvi Singh,Digital Marketing Strategies,Business & Marketing,2024-01-14,8,8.0,Completed,100.0
+STU1009,Ananya Wilson,Full-Stack Web Development,Web Development,2024-02-25,15,13.0,Incomplete,86.67
+STU1010,Arjun White,Full-Stack Web Development,Web Development,2024-01-03,15,15.0,Completed,100.0
+STU1011,Ethan Singh,Python for Beginners,Programming,2024-04-24,10,7.0,Incomplete,70.0
+STU1012,Daniel Davis,Product Management Essentials,Business & Marketing,2024-04-28,8,8.0,Completed,100.0
+STU1013,Emma Sharma,Digital Marketing Strategies,Business & Marketing,2024-02-08,8,,Completed,
+STU1014,Siddharth White,Java Programming Fundamentals,Programming,2024-03-26,12,12.0,Completed,100.0
+STU1015,Zoe Chopra,Java Programming Fundamentals,Programming,2024-02-13,12,12.0,Completed,100.0
+STU1016,Emma Mehta,Java Programming Fundamentals,Programming,2024-01-13,12,12.0,Completed,100.0
+STU1017,Tanvi Chopra,Data Science with Python,Data Science,2024-04-20,14,7.0,Incomplete,50.0
+STU1018,Vikram Verma,Machine Learning & Deep Learning,Data Science,2024-04-10,16,9.0,Incomplete,56.25
+STU1019,David Gupta,Data Science with Python,Data Science,2024-01-26,14,14.0,Completed,100.0
+STU1020,Lucas Joshi,Java Programming Fundamentals,Programming,2024-03-02,12,5.0,Incomplete,41.67
+STU1021,Alex Patel,Full-Stack Web Development,Web Development,2024-04-27,15,0.0,Incomplete,0.0
+STU1022,Chloe Wilson,Python for Beginners,Programming,2024-06-27,10,10.0,Completed,100.0
+STU1023,Neha Smith,Java Programming Fundamentals,Programming,2024-05-12,12,10.0,Incomplete,83.33
+STU1024,Sneha Wilson,Data Science with Python,Data Science,2024-04-27,14,14.0,Completed,100.0
+STU1025,Liam Anderson,Data Science with Python,Data Science,2024-05-21,14,11.0,Incomplete,78.57
+STU1026,Mia Davis,Frontend with React & UI Design,Web Development,2024-02-06,10,10.0,Completed,100.0
+STU1027,Arjun White,Java Programming Fundamentals,Programming,2024-04-09,12,12.0,Completed,100.0
+STU1028,Rahul Patel,Machine Learning & Deep Learning,Data Science,2024-01-03,16,16.0,Completed,100.0
+STU1029,Karan Kumar,Full-Stack Web Development,Web Development,2024-06-26,15,15.0,Completed,100.0
+STU1030,Sneha Singh,Python for Beginners,Programming,2024-01-05,10,10.0,Completed,100.0
+STU1031,Vikram Smith,Full-Stack Web Development,Web Development,2024-06-20,15,15.0,Completed,100.0
+STU1032,Emma Brown,Python for Beginners,Programming,2024-06-16,10,10.0,Completed,100.0
+STU1033,Mia Reddy,Python for Beginners,Programming,2024-05-31,10,5.0,Incomplete,50.0
+STU1034,Mia Joshi,Product Management Essentials,Business & Marketing,2024-06-11,8,8.0,Completed,100.0
+STU1035,Tanvi Thomas,Product Management Essentials,Business & Marketing,2024-02-18,8,8.0,Completed,100.0
+STU1036,Emma White,Frontend with React & UI Design,Web Development,2024-06-10,10,4.0,Incomplete,40.0
+STU1037,Rahul Martinez,Data Science with Python,Data Science,2024-02-04,14,14.0,Completed,100.0
+STU1038,Siddharth Wilson,Python for Beginners,Programming,2024-02-04,10,3.0,Incomplete,30.0
+STU1039,Riya Reddy,Full-Stack Web Development,Web Development,2024-01-05,15,15.0,Completed,100.0
+STU1040,Chloe Smith,Data Science with Python,Data Science,2024-03-18,14,14.0,Completed,100.0
+STU1041,Emma Anderson,Python for Beginners,Programming,2024-05-11,10,10.0,Completed,100.0
+STU1042,Karan Thomas,Machine Learning & Deep Learning,Data Science,2024-02-11,16,16.0,Completed,100.0
+STU1043,Noah Patel,Python for Beginners,Programming,2024-02-09,10,10.0,Completed,100.0
+STU1044,Karan Patel,Digital Marketing Strategies,Business & Marketing,2024-04-13,8,8.0,Completed,100.0
+STU1045,Noah Smith,Java Programming Fundamentals,Programming,2024-06-27,12,12.0,Completed,100.0
+STU1046,Emma Verma,Full-Stack Web Development,Web Development,2024-02-22,15,,Incomplete,
+STU1047,Tanvi Davis,Data Science with Python,Data Science,2024-01-15,14,4.0,Incomplete,28.57
+STU1048,Noah Nair,Machine Learning & Deep Learning,Data Science,2024-04-06,16,9.0,Incomplete,56.25
+STU1049,Grace Smith,Machine Learning & Deep Learning,Data Science,2024-01-05,16,12.0,Incomplete,75.0
+STU1050,Chloe Mehta,Java Programming Fundamentals,Programming,2024-02-16,12,2.0,Incomplete,16.67
+STU1051,Alex Mehta,Product Management Essentials,Business & Marketing,2024-06-21,8,8.0,Completed,100.0
+STU1052,Riya Harris,Frontend with React & UI Design,Web Development,2024-03-09,10,2.0,Incomplete,20.0
+STU1053,Alex Harris,Product Management Essentials,Business & Marketing,2024-04-16,8,2.0,Incomplete,25.0
+STU1054,Zoe Davis,Digital Marketing Strategies,Business & Marketing,2024-05-20,8,8.0,Completed,100.0
+STU1055,Sophia Joshi,Full-Stack Web Development,Web Development,2024-04-20,15,15.0,Completed,100.0
+STU1056,Karan Mehta,Product Management Essentials,Business & Marketing,2024-02-06,8,1.0,Incomplete,12.5
+STU1057,Grace Verma,Python for Beginners,Programming,2024-04-15,10,10.0,Completed,100.0
+STU1058,Pooja Gupta,Java Programming Fundamentals,Programming,2024-02-10,12,3.0,Incomplete,25.0
+STU1059,Ishita Anderson,Python for Beginners,Programming,2024-02-26,10,2.0,Incomplete,20.0
+STU1060,Siddharth Thomas,Data Science with Python,Data Science,2024-02-24,14,14.0,Completed,100.0
+STU1061,Zoe Martinez,Data Science with Python,Data Science,2024-05-22,14,14.0,Completed,100.0
+STU1062,Rahul Smith,Java Programming Fundamentals,Programming,2024-02-22,12,12.0,Completed,100.0
+STU1063,David Martinez,Digital Marketing Strategies,Business & Marketing,2024-06-28,8,8.0,Completed,100.0
+STU1064,Chloe Miller,Data Science with Python,Data Science,2024-02-07,14,2.0,Incomplete,14.29
+STU1065,Alex Wilson,Java Programming Fundamentals,Programming,2024-06-10,12,12.0,Completed,100.0
+STU1066,Aarav Thomas,Machine Learning & Deep Learning,Data Science,2024-01-25,16,5.0,Incomplete,31.25
+STU1067,Neha Thomas,Python for Beginners,Programming,2024-03-28,10,10.0,Completed,100.0
+STU1068,Emma Anderson,Frontend with React & UI Design,Web Development,2024-01-29,10,10.0,Completed,100.0
+STU1069,Ava Gupta,Python for Beginners,Programming,2024-05-29,10,10.0,Completed,100.0
+STU1070,Liam Johnson,Product Management Essentials,Business & Marketing,2024-04-23,8,8.0,Completed,100.0
+STU1071,Siddharth Brown,Frontend with React & UI Design,Web Development,2024-06-27,10,1.0,Incomplete,10.0
+STU1072,Aarav Harris,Java Programming Fundamentals,Programming,2024-03-02,12,12.0,Completed,100.0
+STU1073,Alex Miller,Python for Beginners,Programming,2024-01-29,10,10.0,Completed,100.0
+STU1074,Kavya Miller,Digital Marketing Strategies,Business & Marketing,2024-01-30,8,8.0,Completed,100.0
+STU1075,Vikram Anderson,Full-Stack Web Development,Web Development,2024-04-22,15,4.0,Incomplete,26.67
+STU1076,Olivia Anderson,Frontend with React & UI Design,Web Development,2024-06-14,10,10.0,Completed,100.0
+STU1077,Arjun Mehta,Frontend with React & UI Design,Web Development,2024-01-10,10,3.0,Incomplete,30.0
+STU1078,Mia Reddy,Python for Beginners,Programming,2024-04-19,10,10.0,Completed,100.0
+STU1079,Aarav Martinez,Data Science with Python,Data Science,2024-03-07,14,6.0,Incomplete,42.86
+STU1080,Noah Taylor,Python for Beginners,Programming,2024-03-12,10,10.0,Completed,100.0
+STU1081,Ananya Gupta,Digital Marketing Strategies,Business & Marketing,2024-03-07,8,8.0,Completed,100.0
+STU1082,Mia Kumar,Full-Stack Web Development,Web Development,2024-02-01,15,7.0,Incomplete,46.67
+STU1083,Riya Patel,Data Science with Python,Data Science,2024-02-24,14,4.0,Incomplete,28.57
+STU1084,Riya Davis,Python for Beginners,Programming,2024-02-16,10,6.0,Incomplete,60.0
+STU1085,Sneha Verma,Data Science with Python,Data Science,2024-01-20,14,11.0,Incomplete,78.57
+STU1086,Grace Verma,Data Science with Python,Data Science,2024-03-26,14,13.0,Incomplete,92.86
+STU1087,Aditya Mehta,Frontend with React & UI Design,Web Development,2024-04-23,10,6.0,Incomplete,60.0
+STU1088,Ryan Wilson,Full-Stack Web Development,Web Development,2024-01-14,15,15.0,Completed,100.0
+STU1089,Siddharth Iyer,Digital Marketing Strategies,Business & Marketing,2024-01-25,8,8.0,,100.0
+STU1090,Zoe Nair,Machine Learning & Deep Learning,Data Science,2024-01-22,16,16.0,Completed,100.0
+STU1091,Arjun White,Python for Beginners,Programming,2024-03-15,10,7.0,Incomplete,70.0
+STU1092,Olivia Smith,Frontend with React & UI Design,Web Development,2024-06-13,10,4.0,Incomplete,40.0
+STU1093,Mia Brown,Frontend with React & UI Design,Web Development,2024-02-22,10,6.0,Incomplete,60.0
+STU1094,Daniel Gupta,Machine Learning & Deep Learning,Data Science,2024-06-21,16,16.0,Completed,100.0
+STU1095,Riya Singh,Frontend with React & UI Design,Web Development,2024-02-23,10,7.0,Incomplete,70.0
+STU1096,Rahul Chopra,Machine Learning & Deep Learning,Data Science,2024-02-09,16,14.0,Incomplete,87.5
+STU1097,Ananya Davis,Machine Learning & Deep Learning,Data Science,2024-02-24,16,6.0,Incomplete,37.5
+STU1098,Karan Davis,Data Science with Python,Data Science,2024-05-27,14,11.0,Incomplete,78.57
+STU1099,Karan Sharma,Python for Beginners,Programming,2024-03-21,10,10.0,Completed,100.0
+STU1100,Rahul White,Python for Beginners,Programming,2024-04-18,10,10.0,Completed,100.0
+STU1101,Pooja Singh,Python for Beginners,Programming,2024-06-02,10,10.0,Completed,100.0
+STU1102,Rahul Patel,Full-Stack Web Development,Web Development,2024-04-13,15,11.0,Incomplete,73.33
+STU1103,Ava Verma,Data Science with Python,Data Science,2024-02-08,14,14.0,Completed,100.0
+STU1104,Riya Iyer,Machine Learning & Deep Learning,Data Science,2024-04-17,16,16.0,Completed,100.0
+STU1105,Grace Nair,Digital Marketing Strategies,Business & Marketing,2024-04-11,8,8.0,Completed,100.0
+STU1106,Aditya Harris,Java Programming Fundamentals,Programming,2024-03-23,12,2.0,Incomplete,16.67
+STU1107,Ryan Singh,Data Science with Python,Data Science,2024-01-25,14,2.0,Incomplete,14.29
+STU1108,Ryan Johnson,Frontend with React & UI Design,Web Development,2024-02-01,10,7.0,Incomplete,70.0
+STU1109,Arjun Gupta,Java Programming Fundamentals,Programming,2024-01-14,12,5.0,Incomplete,41.67
+STU1110,Vikram Thomas,Python for Beginners,Programming,2024-01-07,10,10.0,Completed,100.0
+STU1111,Zoe Joshi,Java Programming Fundamentals,Programming,2024-06-24,12,12.0,Completed,100.0
+STU1112,Zoe Johnson,Python for Beginners,Programming,2024-02-28,10,10.0,Completed,100.0
+STU1113,Chloe Harris,Product Management Essentials,Business & Marketing,2024-04-12,8,1.0,Incomplete,12.5
+STU1114,Pooja Thomas,Frontend with React & UI Design,Web Development,2024-06-07,10,10.0,Completed,100.0
+STU1115,Vikram Patel,Full-Stack Web Development,Web Development,2024-04-17,15,15.0,Completed,100.0
+STU1116,Sophia Harris,Digital Marketing Strategies,Business & Marketing,2024-04-07,8,8.0,Completed,100.0
+STU1117,Ava Gupta,Frontend with React & UI Design,Web Development,2024-04-29,10,9.0,Incomplete,90.0
+STU1118,Riya Nair,Java Programming Fundamentals,Programming,2024-04-02,12,12.0,Completed,100.0
+STU1119,Arjun Wilson,Digital Marketing Strategies,Business & Marketing,2024-05-20,8,8.0,Completed,100.0
+STU1120,Daniel Mehta,Machine Learning & Deep Learning,Data Science,2024-06-18,16,6.0,Incomplete,37.5
+STU1121,Zoe Reddy,Frontend with React & UI Design,Web Development,2024-05-02,10,6.0,Incomplete,60.0
+STU1122,Emma Brown,Digital Marketing Strategies,Business & Marketing,2024-01-16,8,1.0,Incomplete,12.5
+STU1123,Riya Verma,Data Science with Python,Data Science,2024-06-25,14,2.0,Incomplete,14.29
+STU1124,Daniel Wilson,Python for Beginners,Programming,2024-05-21,10,10.0,Completed,100.0
+STU1125,Vikram Patel,Java Programming Fundamentals,Programming,2024-03-08,12,12.0,Completed,100.0
+STU1126,Aarav Verma,Data Science with Python,Data Science,2024-05-22,14,0.0,Incomplete,0.0
+STU1127,Riya Reddy,Digital Marketing Strategies,Business & Marketing,2024-03-28,8,8.0,Completed,100.0
+STU1128,Ethan Taylor,Digital Marketing Strategies,Business & Marketing,2024-02-06,8,8.0,Completed,100.0
+STU1129,Ryan Nair,Python for Beginners,Programming,2024-01-11,10,5.0,Incomplete,50.0
+STU1130,Sophia Patel,Machine Learning & Deep Learning,Data Science,2024-04-19,16,8.0,Incomplete,50.0
+STU1131,Siddharth Smith,Data Science with Python,Data Science,2024-02-26,14,14.0,Completed,100.0
+STU1132,Aarav Smith,Java Programming Fundamentals,Programming,2024-01-03,12,12.0,Completed,100.0
+STU1133,Alex Brown,Python for Beginners,Programming,2024-01-20,10,3.0,Incomplete,30.0
+STU1134,Liam Johnson,Data Science with Python,Data Science,2024-01-03,14,8.0,Incomplete,57.14
+STU1135,Grace Mehta,Product Management Essentials,Business & Marketing,2024-05-21,8,3.0,Incomplete,37.5
+STU1136,Arjun Kumar,Data Science with Python,Data Science,2024-06-01,14,0.0,Incomplete,0.0
+STU1137,Tanvi Patel,Machine Learning & Deep Learning,Data Science,2024-05-03,16,7.0,Incomplete,43.75
+STU1138,Pooja Harris,Full-Stack Web Development,Web Development,2024-03-12,15,15.0,Completed,100.0
+STU1139,Noah Patel,Data Science with Python,Data Science,2024-01-28,14,8.0,Incomplete,57.14
+STU1140,Pooja Davis,Product Management Essentials,Business & Marketing,2024-03-21,8,8.0,Completed,100.0
+STU1141,Ryan Miller,Product Management Essentials,Business & Marketing,2024-02-14,8,8.0,Completed,100.0
+STU1142,Siddharth Patel,Java Programming Fundamentals,Programming,2024-04-02,12,12.0,Completed,100.0
+STU1143,Sneha Reddy,Machine Learning & Deep Learning,Data Science,2024-02-02,16,10.0,Incomplete,62.5
+STU1144,Rahul Martinez,Data Science with Python,Data Science,2024-06-17,14,5.0,Incomplete,35.71
+STU1145,Rahul Thomas,Java Programming Fundamentals,Programming,2024-02-14,12,12.0,Completed,100.0
+STU1146,Riya Smith,Python for Beginners,Programming,2024-06-18,10,10.0,Completed,100.0
+STU1147,Neha Davis,Full-Stack Web Development,Web Development,2024-06-03,15,15.0,Completed,100.0
+STU1148,Riya Davis,Machine Learning & Deep Learning,Data Science,2024-06-07,16,6.0,Incomplete,37.5
+STU1149,Rohan Martinez,Python for Beginners,Programming,2024-01-02,10,10.0,Completed,100.0
+STU1150,Sneha Johnson,Java Programming Fundamentals,Programming,2024-04-22,12,4.0,Incomplete,33.33
+STU1151,Noah Iyer,Digital Marketing Strategies,Business & Marketing,2024-04-13,8,8.0,Completed,100.0
+STU1152,Tanvi Thomas,Java Programming Fundamentals,Programming,2024-03-28,12,12.0,Completed,100.0
+STU1153,Noah Singh,Python for Beginners,Programming,2024-03-03,10,4.0,Incomplete,40.0
+STU1154,Alex Smith,Machine Learning & Deep Learning,Data Science,2024-03-08,16,11.0,Incomplete,68.75
+STU1155,Aditya Thomas,Product Management Essentials,Business & Marketing,2024-01-17,8,8.0,Completed,100.0
+STU1156,Olivia Brown,Java Programming Fundamentals,Programming,2024-02-19,12,1.0,Incomplete,8.33
+STU1157,Noah Verma,Full-Stack Web Development,Web Development,2024-01-07,15,1.0,Incomplete,6.67
+STU1158,Aarav Brown,Frontend with React & UI Design,Web Development,2024-02-02,10,10.0,Completed,100.0
+STU1159,Vikram Verma,Java Programming Fundamentals,Programming,2024-03-19,12,12.0,Completed,100.0
+STU1160,Tanvi Miller,Frontend with React & UI Design,Web Development,2024-02-08,10,7.0,Incomplete,70.0
+STU1161,Alex Mehta,Data Science with Python,Data Science,2024-03-24,14,2.0,Incomplete,14.29
+STU1162,Lucas Verma,Full-Stack Web Development,Web Development,2024-03-24,15,10.0,Incomplete,66.67
+STU1163,Riya Joshi,Full-Stack Web Development,Web Development,2024-05-10,15,15.0,Completed,100.0
+STU1164,Liam Reddy,Machine Learning & Deep Learning,Data Science,2024-02-27,16,16.0,Completed,100.0
+STU1165,Daniel Wilson,Python for Beginners,Programming,2024-01-12,10,4.0,Incomplete,40.0
+STU1166,Olivia Martinez,Digital Marketing Strategies,Business & Marketing,2024-01-27,8,8.0,Completed,100.0
+STU1167,Aarav Thomas,Data Science with Python,Data Science,2024-06-22,14,7.0,Incomplete,50.0
+STU1168,Olivia Thomas,Java Programming Fundamentals,Programming,2024-05-10,12,12.0,Completed,100.0
+STU1169,Vikram Mehta,Python for Beginners,Programming,2024-01-15,10,6.0,Incomplete,60.0
+STU1170,Alex Gupta,Full-Stack Web Development,Web Development,2024-03-03,15,1.0,Incomplete,6.67
+STU1171,Vikram Harris,Full-Stack Web Development,Web Development,2024-03-22,15,9.0,Incomplete,60.0
+STU1172,Ishita Iyer,Python for Beginners,Programming,2024-04-04,10,10.0,Completed,100.0
+STU1173,Liam Martinez,Machine Learning & Deep Learning,Data Science,2024-02-10,16,2.0,Incomplete,12.5
+STU1174,Tanvi White,Java Programming Fundamentals,Programming,2024-04-30,12,12.0,Completed,100.0
+STU1175,Ava Nair,Full-Stack Web Development,Web Development,2024-06-16,15,12.0,Incomplete,80.0
+STU1176,Alex Miller,Python for Beginners,Programming,2024-04-06,10,10.0,Completed,100.0
+STU1177,Grace Iyer,Full-Stack Web Development,Web Development,2024-05-29,15,7.0,Incomplete,46.67
+STU1178,Pooja Verma,Data Science with Python,Data Science,2024-06-14,14,14.0,Completed,100.0
+STU1179,Zoe Iyer,Product Management Essentials,Business & Marketing,2024-06-22,8,8.0,Completed,100.0
+STU1180,Rohan Sharma,Python for Beginners,Programming,2024-05-22,10,10.0,Completed,100.0
+STU1181,Ava Mehta,Data Science with Python,Data Science,2024-04-28,14,14.0,Completed,100.0
+STU1182,Alex Reddy,Python for Beginners,Programming,2024-04-13,10,10.0,Completed,100.0
+STU1183,Daniel Wilson,Product Management Essentials,Business & Marketing,2024-05-02,8,8.0,Completed,100.0
+STU1184,Zoe Wilson,Digital Marketing Strategies,Business & Marketing,2024-01-06,8,8.0,Completed,100.0
+STU1185,Aarav Gupta,Java Programming Fundamentals,Programming,2024-04-01,12,4.0,Incomplete,33.33
+STU1186,Rahul White,Full-Stack Web Development,Web Development,2024-06-02,15,5.0,Incomplete,33.33
+STU1187,Ishita Wilson,Digital Marketing Strategies,Business & Marketing,2024-05-06,8,8.0,Completed,100.0
+STU1188,Rohan Joshi,Machine Learning & Deep Learning,Data Science,2024-05-01,16,12.0,Incomplete,75.0
+STU1189,Ishita Johnson,Machine Learning & Deep Learning,Data Science,2024-04-09,16,16.0,Completed,100.0
+STU1190,Aditya Patel,Java Programming Fundamentals,Programming,2024-05-25,12,5.0,Incomplete,41.67
+STU1191,Olivia Joshi,Python for Beginners,Programming,2024-02-06,10,10.0,Completed,100.0
+STU1192,Rohan Joshi,Digital Marketing Strategies,Business & Marketing,2024-04-02,8,5.0,Incomplete,62.5
+STU1193,Tanvi Thomas,Digital Marketing Strategies,Business & Marketing,2024-04-06,8,8.0,Completed,100.0
+STU1194,Riya Thomas,Full-Stack Web Development,Web Development,2024-02-06,15,8.0,Incomplete,53.33
+STU1195,Vikram Joshi,Data Science with Python,Data Science,2024-04-17,14,14.0,Completed,100.0
+STU1196,Ethan Martinez,Data Science with Python,Data Science,2024-04-26,14,5.0,Incomplete,35.71
+STU1197,Ishita Singh,Frontend with React & UI Design,Web Development,2024-03-06,10,10.0,Completed,100.0
+STU1198,Siddharth Reddy,Digital Marketing Strategies,Business & Marketing,2024-06-12,8,8.0,Completed,100.0
+STU1199,Ethan Sharma,Digital Marketing Strategies,Business & Marketing,2024-06-18,8,8.0,Completed,100.0
+STU1200,Kavya Harris,Frontend with React & UI Design,Web Development,2024-01-21,10,9.0,Incomplete,90.0
+STU1201,Ava Johnson,Full-Stack Web Development,Web Development,2024-06-20,15,1.0,Incomplete,6.67
+STU1202,Riya Iyer,Python for Beginners,Programming,2024-01-02,10,10.0,Completed,100.0
+STU1203,Siddharth White,Python for Beginners,Programming,2024-03-09,10,10.0,Completed,100.0
+STU1204,Vikram Smith,Digital Marketing Strategies,Business & Marketing,2024-02-10,8,8.0,Completed,100.0
+STU1205,Rohan Taylor,Full-Stack Web Development,Web Development,2024-02-29,15,15.0,Completed,100.0
+STU1206,Karan Nair,Python for Beginners,Programming,2024-01-14,10,10.0,Completed,100.0
+STU1207,Chloe Joshi,Python for Beginners,Programming,2024-03-24,10,10.0,Completed,100.0
+STU1208,Olivia Singh,Full-Stack Web Development,Web Development,2024-01-05,15,6.0,Incomplete,40.0
+STU1209,Karan Sharma,Python for Beginners,Programming,2024-06-16,10,10.0,Completed,100.0
+STU1210,Arjun Smith,Python for Beginners,Programming,2024-06-12,10,10.0,Completed,100.0
+STU1211,Ava Iyer,Machine Learning & Deep Learning,Data Science,2024-04-03,16,6.0,Incomplete,37.5
+STU1212,Rahul Iyer,Full-Stack Web Development,Web Development,2024-05-12,15,15.0,Completed,100.0
+STU1213,Lucas Anderson,Full-Stack Web Development,Web Development,2024-06-19,15,15.0,Completed,100.0
+STU1214,Sophia Thomas,Java Programming Fundamentals,Programming,2024-06-23,12,4.0,Incomplete,33.33
+STU1215,Ava Sharma,Frontend with React & UI Design,Web Development,2024-05-13,10,0.0,Incomplete,0.0
+STU1216,Neha Iyer,Java Programming Fundamentals,Programming,2024-05-27,12,12.0,Completed,100.0
+STU1217,Kavya Davis,Data Science with Python,Data Science,2024-05-09,14,14.0,Completed,100.0
+STU1218,Alex Patel,Frontend with React & UI Design,Web Development,2024-02-06,10,10.0,Completed,100.0
+STU1219,Vikram Martinez,Full-Stack Web Development,Web Development,2024-03-09,15,8.0,Incomplete,53.33
+STU1220,Zoe Joshi,Digital Marketing Strategies,Business & Marketing,2024-06-27,8,8.0,Completed,100.0
+STU1221,Noah Johnson,Full-Stack Web Development,Web Development,2024-01-20,15,15.0,Completed,100.0
+STU1222,Neha Smith,Machine Learning & Deep Learning,Data Science,2024-06-19,16,1.0,Incomplete,6.25
+STU1223,Arjun Iyer,Python for Beginners,Programming,2024-06-20,10,10.0,Completed,100.0
+STU1224,Rohan White,Data Science with Python,Data Science,2024-03-25,14,7.0,Incomplete,50.0
+STU1225,Zoe Sharma,Java Programming Fundamentals,Programming,2024-01-08,12,12.0,Completed,100.0
+STU1226,Arjun Joshi,Java Programming Fundamentals,Programming,2024-04-11,12,12.0,Completed,100.0
+STU1227,Zoe Verma,Product Management Essentials,Business & Marketing,2024-06-06,8,2.0,Incomplete,25.0
+STU1228,Ava Martinez,Data Science with Python,Data Science,2024-05-24,14,14.0,Completed,100.0
+STU1229,Noah Thomas,Digital Marketing Strategies,Business & Marketing,2024-02-02,8,5.0,Incomplete,62.5
+STU1230,Neha Harris,Full-Stack Web Development,Web Development,2024-03-03,15,6.0,Incomplete,40.0
+STU1231,Olivia Miller,Frontend with React & UI Design,Web Development,2024-03-08,10,5.0,Incomplete,50.0
+STU1232,Olivia Thomas,Machine Learning & Deep Learning,Data Science,2024-05-20,16,8.0,Incomplete,50.0
+STU1233,Ethan Chopra,Full-Stack Web Development,Web Development,2024-03-29,15,9.0,Incomplete,60.0
+STU1234,Sophia White,Machine Learning & Deep Learning,Data Science,2024-03-05,16,16.0,Completed,100.0
+STU1235,Liam Wilson,Java Programming Fundamentals,Programming,2024-05-22,12,12.0,Completed,100.0
+STU1236,Aditya Nair,Frontend with React & UI Design,Web Development,2024-06-20,10,8.0,Incomplete,80.0
+STU1237,Ethan Thomas,Java Programming Fundamentals,Programming,2024-01-11,12,12.0,Completed,100.0
+STU1238,David Thomas,Python for Beginners,Programming,2024-04-19,10,10.0,Completed,100.0
+STU1239,Kavya Martinez,Full-Stack Web Development,Web Development,2024-06-04,15,5.0,Incomplete,33.33
+STU1240,Olivia Smith,Python for Beginners,Programming,2024-06-02,10,10.0,Completed,100.0
+STU1241,Aarav Kumar,Product Management Essentials,Business & Marketing,2024-05-12,8,8.0,Completed,100.0
+STU1242,Liam Nair,Product Management Essentials,Business & Marketing,2024-02-06,8,8.0,Completed,100.0
+STU1243,Zoe Davis,Product Management Essentials,Business & Marketing,2024-01-15,8,8.0,Completed,100.0
+STU1244,Noah Brown,Data Science with Python,Data Science,2024-03-27,14,14.0,Completed,100.0
+STU1245,Daniel Brown,Python for Beginners,Programming,2024-01-21,10,3.0,Incomplete,30.0
+STU1246,Tanvi Miller,Product Management Essentials,Business & Marketing,2024-01-19,8,8.0,Completed,100.0
+STU1247,Ryan Harris,Data Science with Python,Data Science,2024-05-04,14,14.0,Completed,100.0
+STU1248,Siddharth Thomas,Product Management Essentials,Business & Marketing,2024-04-26,8,8.0,Completed,100.0
+STU1249,Sneha Kumar,Product Management Essentials,Business & Marketing,2024-01-27,8,8.0,Completed,100.0
+STU1250,Ava Verma,Digital Marketing Strategies,Business & Marketing,2024-01-02,8,5.0,Incomplete,62.5
+STU1251,Riya Thomas,Java Programming Fundamentals,Programming,2024-05-11,12,12.0,Completed,100.0
+STU1252,Olivia Singh,Data Science with Python,Data Science,2024-06-07,14,2.0,Incomplete,14.29
+STU1253,Arjun Mehta,Digital Marketing Strategies,Business & Marketing,2024-02-25,8,8.0,Completed,100.0
+STU1254,Ananya Patel,Data Science with Python,Data Science,2024-06-21,14,3.0,Incomplete,21.43
+STU1255,Riya Taylor,Python for Beginners,Programming,2024-05-02,10,10.0,Completed,100.0
+STU1256,Rahul Brown,Machine Learning & Deep Learning,Data Science,2024-05-29,16,16.0,Completed,100.0
+STU1257,Ethan Anderson,Product Management Essentials,Business & Marketing,2024-05-01,8,2.0,Incomplete,25.0
+STU1258,Arjun White,Full-Stack Web Development,Web Development,2024-06-18,15,15.0,Completed,100.0
+STU1259,David Taylor,Full-Stack Web Development,Web Development,2024-01-19,15,3.0,Incomplete,20.0
+STU1260,Sophia Singh,Python for Beginners,Programming,2024-03-09,10,5.0,Incomplete,50.0
+STU1261,Ishita Anderson,Full-Stack Web Development,Web Development,2024-04-17,15,15.0,Completed,100.0
+STU1262,Aarav Gupta,Product Management Essentials,Business & Marketing,2024-06-08,8,3.0,Incomplete,37.5
+STU1263,Zoe Singh,Python for Beginners,Programming,2024-03-18,10,10.0,Completed,100.0
+STU1264,Kavya White,Machine Learning & Deep Learning,Data Science,2024-05-04,16,14.0,Incomplete,87.5
+STU1265,Chloe Patel,Digital Marketing Strategies,Business & Marketing,2024-01-24,8,8.0,Completed,100.0
+STU1266,Riya Gupta,Frontend with React & UI Design,Web Development,2024-01-19,10,10.0,Completed,100.0
+STU1267,Chloe Mehta,Full-Stack Web Development,Web Development,2024-04-06,15,9.0,Incomplete,60.0
+STU1268,Chloe Thomas,Full-Stack Web Development,Web Development,2024-01-13,15,3.0,Incomplete,20.0
+STU1269,Noah Brown,Data Science with Python,Data Science,2024-05-09,14,14.0,Completed,100.0
+STU1270,Zoe Wilson,Java Programming Fundamentals,Programming,2024-03-07,12,7.0,Incomplete,58.33
+STU1271,Daniel Reddy,Frontend with React & UI Design,Web Development,2024-05-04,10,10.0,Completed,100.0
+STU1272,Ryan Brown,Digital Marketing Strategies,Business & Marketing,2024-03-26,8,8.0,Completed,100.0
+STU1273,Alex Singh,Digital Marketing Strategies,Business & Marketing,2024-06-20,8,8.0,Completed,100.0
+STU1274,Emma Miller,Product Management Essentials,Business & Marketing,2024-02-04,8,8.0,Completed,100.0
+STU1275,Grace Anderson,Machine Learning & Deep Learning,Data Science,2024-03-17,16,4.0,Incomplete,25.0
+STU1276,Riya Iyer,Machine Learning & Deep Learning,Data Science,2024-02-24,16,3.0,Incomplete,18.75
+STU1277,Daniel Verma,Frontend with React & UI Design,Web Development,2024-01-23,10,8.0,Incomplete,80.0
+STU1278,Liam Singh,Full-Stack Web Development,Web Development,2024-04-13,15,15.0,Completed,100.0
+STU1279,Emma Chopra,Full-Stack Web Development,Web Development,2024-04-13,15,15.0,Completed,100.0
+STU1280,Noah Wilson,Frontend with React & UI Design,Web Development,2024-02-01,10,8.0,Incomplete,80.0
+STU1281,Sneha Mehta,Digital Marketing Strategies,Business & Marketing,2024-01-16,8,8.0,Completed,100.0
+STU1282,Ishita Singh,Data Science with Python,Data Science,2024-05-21,14,14.0,Completed,100.0
+STU1283,David White,Data Science with Python,Data Science,2024-05-30,14,14.0,Completed,100.0
+STU1284,Ishita White,Python for Beginners,Programming,2024-03-06,10,10.0,Completed,100.0
+STU1285,Tanvi Verma,Full-Stack Web Development,Web Development,2024-01-02,15,15.0,Completed,100.0
+STU1286,Ethan Johnson,Python for Beginners,Programming,2024-02-24,10,0.0,Incomplete,0.0
+STU1287,Ava Wilson,Machine Learning & Deep Learning,Data Science,2024-05-29,16,16.0,Completed,100.0
+STU1288,Chloe Johnson,Machine Learning & Deep Learning,Data Science,2024-06-06,16,7.0,Incomplete,43.75
+STU1289,Pooja Nair,Java Programming Fundamentals,Programming,2024-06-11,12,5.0,Incomplete,41.67
+STU1290,Ethan Smith,Full-Stack Web Development,Web Development,2024-05-09,15,15.0,Completed,100.0
+STU1291,Ananya Davis,Python for Beginners,Programming,2024-01-20,10,10.0,Completed,100.0
+STU1292,David Taylor,Python for Beginners,Programming,2024-01-10,10,10.0,Completed,100.0
+STU1293,Aarav Joshi,Digital Marketing Strategies,Business & Marketing,2024-05-04,8,2.0,Incomplete,25.0
+STU1294,Olivia Smith,Data Science with Python,Data Science,2024-06-17,14,14.0,Completed,100.0
+STU1295,Ethan Wilson,Python for Beginners,Programming,2024-03-19,10,2.0,Incomplete,20.0
+STU1296,Karan Taylor,Machine Learning & Deep Learning,Data Science,2024-03-18,16,8.0,Incomplete,50.0
+STU1297,Karan Iyer,Frontend with React & UI Design,Web Development,2024-05-09,10,6.0,Incomplete,60.0
+STU1298,Zoe Taylor,Java Programming Fundamentals,Programming,2024-03-23,12,4.0,Incomplete,33.33
+STU1299,Ananya Smith,Full-Stack Web Development,Web Development,2024-05-28,15,15.0,Completed,100.0
+STU1300,Ava Thomas,Python for Beginners,Programming,2024-04-24,10,10.0,Completed,100.0
+STU1301,Sophia Harris,Python for Beginners,Programming,2024-05-23,10,10.0,Completed,100.0
+STU1302,Siddharth Brown,Machine Learning & Deep Learning,Data Science,2024-01-04,16,16.0,Completed,100.0
+STU1303,Aditya Martinez,Machine Learning & Deep Learning,Data Science,2024-06-12,16,8.0,Incomplete,50.0
+STU1304,Ananya Smith,Full-Stack Web Development,Web Development,2024-04-01,15,9.0,Incomplete,60.0
+STU1305,Ananya Verma,Frontend with React & UI Design,Web Development,2024-03-26,10,10.0,Completed,100.0
+STU1306,Zoe Mehta,Product Management Essentials,Business & Marketing,2024-05-28,8,3.0,Incomplete,37.5
+STU1307,Chloe Reddy,Machine Learning & Deep Learning,Data Science,2024-06-29,16,8.0,Incomplete,50.0
+STU1308,Pooja Iyer,Data Science with Python,Data Science,2024-05-28,14,9.0,Incomplete,64.29
+STU1309,David Chopra,Frontend with React & UI Design,Web Development,2024-03-22,10,7.0,Incomplete,70.0
+STU1310,Tanvi Brown,Java Programming Fundamentals,Programming,2024-06-28,12,12.0,Completed,100.0
+STU1311,Noah Chopra,Data Science with Python,Data Science,2024-05-09,14,5.0,Incomplete,35.71
+STU1312,David Iyer,Python for Beginners,Programming,2024-01-29,10,10.0,Completed,100.0
+STU1313,Ethan Iyer,Python for Beginners,Programming,2024-02-27,10,10.0,Completed,100.0
+STU1314,Sneha Taylor,Product Management Essentials,Business & Marketing,2024-01-21,8,8.0,Completed,100.0
+STU1315,Ananya Harris,Digital Marketing Strategies,Business & Marketing,2024-05-24,8,3.0,Incomplete,37.5
+STU1316,Pooja Joshi,Full-Stack Web Development,Web Development,2024-03-28,15,15.0,Completed,100.0
+STU1317,Karan Anderson,Data Science with Python,Data Science,2024-03-27,14,0.0,Incomplete,0.0
+STU1318,Rahul Anderson,Python for Beginners,Programming,2024-04-18,10,10.0,Completed,100.0
+STU1319,Rohan Sharma,Python for Beginners,Programming,2024-06-07,10,4.0,Incomplete,40.0
+STU1320,Riya Nair,Java Programming Fundamentals,Programming,2024-05-18,12,12.0,Completed,100.0
+STU1321,Ananya Martinez,Machine Learning & Deep Learning,Data Science,2024-01-05,16,7.0,Incomplete,43.75
+STU1322,Ishita Singh,Frontend with React & UI Design,Web Development,2024-06-26,10,4.0,Incomplete,40.0
+STU1323,Aditya Taylor,Full-Stack Web Development,Web Development,2024-02-05,15,15.0,Completed,100.0
+STU1324,Neha Davis,Java Programming Fundamentals,Programming,2024-04-23,12,2.0,Incomplete,16.67
+STU1325,Tanvi Brown,Product Management Essentials,Business & Marketing,2024-06-12,8,8.0,Completed,100.0
+STU1326,Alex Joshi,Frontend with React & UI Design,Web Development,2024-01-02,10,10.0,Completed,100.0
+STU1327,Siddharth Martinez,Machine Learning & Deep Learning,Data Science,2024-01-11,16,10.0,Incomplete,62.5
+STU1328,Neha Reddy,Full-Stack Web Development,Web Development,2024-01-17,15,15.0,Completed,100.0
+STU1329,Olivia Gupta,Data Science with Python,Data Science,2024-04-23,14,10.0,Incomplete,71.43
+STU1330,Ananya Kumar,Java Programming Fundamentals,Programming,2024-04-29,12,0.0,Incomplete,0.0
+STU1331,David Smith,Data Science with Python,Data Science,2024-06-23,14,3.0,Incomplete,21.43
+STU1332,Arjun Verma,Frontend with React & UI Design,Web Development,2024-05-20,10,10.0,Completed,100.0
+STU1333,Riya Gupta,Python for Beginners,Programming,2024-05-05,10,10.0,Completed,100.0
+STU1334,Olivia Thomas,Python for Beginners,Programming,2024-03-26,10,2.0,Incomplete,20.0
+STU1335,Neha Davis,Python for Beginners,Programming,2024-06-28,10,3.0,Incomplete,30.0
+STU1336,Rohan Joshi,Python for Beginners,Programming,2024-06-19,10,3.0,Incomplete,30.0
+STU1337,Zoe Thomas,Digital Marketing Strategies,Business & Marketing,2024-04-06,8,8.0,Completed,100.0
+STU1338,Mia Verma,Full-Stack Web Development,Web Development,2024-04-20,15,2.0,Incomplete,13.33
+STU1339,Ava Sharma,Machine Learning & Deep Learning,Data Science,2024-04-17,16,8.0,Incomplete,50.0
+STU1340,Ethan Taylor,Python for Beginners,Programming,2024-01-10,10,5.0,Incomplete,50.0
+STU1341,Vikram Johnson,Machine Learning & Deep Learning,Data Science,2024-05-16,16,5.0,Incomplete,31.25
+STU1342,Mia Anderson,Machine Learning & Deep Learning,Data Science,2024-02-25,16,4.0,Incomplete,25.0
+STU1343,Chloe White,Python for Beginners,Programming,2024-05-11,10,10.0,Completed,100.0
+STU1344,Ishita Johnson,Data Science with Python,Data Science,2024-05-11,14,14.0,Completed,100.0
+STU1345,Kavya Harris,Data Science with Python,Data Science,2024-04-12,14,4.0,Incomplete,28.57
+STU1346,Emma Martinez,Full-Stack Web Development,Web Development,2024-02-07,15,15.0,Completed,100.0
+STU1347,Ryan Brown,Full-Stack Web Development,Web Development,2024-02-26,15,15.0,Completed,100.0
+STU1348,Zoe Harris,Python for Beginners,Programming,2024-01-17,10,10.0,Completed,100.0
+STU1349,Emma Chopra,Data Science with Python,Data Science,2024-02-24,14,11.0,Incomplete,78.57
+STU1350,Riya Verma,Full-Stack Web Development,Web Development,2024-02-29,15,8.0,Incomplete,53.33
+STU1351,Emma Brown,Machine Learning & Deep Learning,Data Science,2024-03-03,16,16.0,Completed,100.0
+STU1352,Riya Brown,Digital Marketing Strategies,Business & Marketing,2024-05-29,8,8.0,Completed,100.0
+STU1353,David Chopra,Full-Stack Web Development,Web Development,2024-04-03,15,9.0,Incomplete,60.0
+STU1354,Ananya Taylor,Python for Beginners,Programming,2024-05-25,10,10.0,Completed,100.0
+STU1355,Noah Reddy,Python for Beginners,Programming,2024-04-22,10,10.0,Completed,100.0
+STU1356,Grace Nair,Full-Stack Web Development,Web Development,2024-02-16,15,5.0,Incomplete,33.33
+STU1357,Lucas Iyer,Python for Beginners,Programming,2024-02-16,10,10.0,Completed,100.0
+STU1358,Ava Iyer,Full-Stack Web Development,Web Development,2024-03-01,15,14.0,Incomplete,93.33
+STU1359,Emma Wilson,Product Management Essentials,Business & Marketing,2024-03-21,8,5.0,Incomplete,62.5
+STU1360,Aarav Miller,Full-Stack Web Development,Web Development,2024-02-18,15,3.0,Incomplete,20.0
+STU1361,Arjun Verma,Data Science with Python,Data Science,2024-01-05,14,14.0,Completed,100.0
+STU1362,Riya Harris,Full-Stack Web Development,Web Development,2024-01-24,15,4.0,Incomplete,26.67
+STU1363,Ethan Taylor,Data Science with Python,Data Science,2024-01-31,14,3.0,Incomplete,21.43
+STU1364,Riya White,Machine Learning & Deep Learning,Data Science,2024-03-26,16,5.0,Incomplete,31.25
+STU1365,Ryan Anderson,Product Management Essentials,Business & Marketing,2024-06-11,8,8.0,Completed,100.0
+STU1366,Grace Brown,Data Science with Python,Data Science,2024-01-14,14,14.0,Completed,100.0
+STU1367,Ananya Verma,Product Management Essentials,Business & Marketing,2024-03-20,8,8.0,Completed,100.0
+STU1368,Liam Singh,Digital Marketing Strategies,Business & Marketing,2024-04-15,8,8.0,Completed,100.0
+STU1369,Sophia White,Java Programming Fundamentals,Programming,2024-03-22,12,4.0,Incomplete,33.33
+STU1370,Riya Kumar,Python for Beginners,Programming,2024-05-06,10,7.0,Incomplete,70.0
+STU1371,Mia Taylor,Python for Beginners,Programming,2024-06-08,10,10.0,Completed,100.0
+STU1372,Lucas Johnson,Python for Beginners,Programming,2024-05-27,10,10.0,Completed,100.0
+STU1373,Ava Joshi,Python for Beginners,Programming,2024-06-24,10,10.0,Completed,100.0
+STU1374,Chloe Iyer,Full-Stack Web Development,Web Development,2024-02-27,15,8.0,Incomplete,53.33
+STU1375,Olivia Iyer,Python for Beginners,Programming,2024-04-24,10,6.0,Incomplete,60.0
+STU1376,Karan Gupta,Data Science with Python,Data Science,2024-05-06,14,0.0,Incomplete,0.0
+STU1377,Arjun Chopra,Digital Marketing Strategies,Business & Marketing,2024-03-11,8,8.0,Completed,100.0
+STU1378,Neha Harris,Python for Beginners,Programming,2024-02-02,10,10.0,Completed,100.0
+STU1379,Kavya Nair,Digital Marketing Strategies,Business & Marketing,2024-03-01,8,8.0,Completed,100.0
+STU1380,Tanvi Harris,Java Programming Fundamentals,Programming,2024-01-28,12,12.0,Completed,100.0
+STU1381,Ryan Iyer,Python for Beginners,Programming,2024-04-07,10,5.0,Incomplete,50.0
+STU1382,Liam Gupta,Full-Stack Web Development,Web Development,2024-05-04,15,5.0,Incomplete,33.33
+STU1383,Arjun Kumar,Full-Stack Web Development,Web Development,2024-04-08,15,11.0,Incomplete,73.33
+STU1384,Karan Joshi,Digital Marketing Strategies,Business & Marketing,2024-03-03,8,8.0,Completed,100.0
+STU1385,Kavya Kumar,Frontend with React & UI Design,Web Development,2024-02-01,10,10.0,Completed,100.0
+STU1386,Aarav White,Frontend with React & UI Design,Web Development,2024-01-20,10,10.0,Completed,100.0
+STU1387,Aditya Iyer,Java Programming Fundamentals,Programming,2024-03-08,12,12.0,Completed,100.0
+STU1388,Rohan Patel,Python for Beginners,Programming,2024-04-01,10,1.0,Incomplete,10.0
+STU1389,Liam White,Frontend with React & UI Design,Web Development,2024-05-04,10,10.0,Completed,100.0
+STU1390,Aditya Anderson,Frontend with React & UI Design,Web Development,2024-02-27,10,10.0,Completed,100.0
+STU1391,Grace Gupta,Product Management Essentials,Business & Marketing,2024-02-13,8,3.0,Incomplete,37.5
+STU1392,Aarav Davis,Data Science with Python,Data Science,2024-06-26,14,3.0,Incomplete,21.43
+STU1393,Liam Taylor,Data Science with Python,Data Science,2024-02-20,14,14.0,Completed,100.0
+STU1394,Ryan Brown,Frontend with React & UI Design,Web Development,2024-01-12,10,10.0,Completed,100.0
+STU1395,Ava Reddy,Data Science with Python,Data Science,2024-02-24,14,10.0,Incomplete,71.43
+STU1396,Pooja Iyer,Product Management Essentials,Business & Marketing,2024-05-22,8,8.0,Completed,100.0
+STU1397,Ryan Gupta,Digital Marketing Strategies,Business & Marketing,2024-01-07,8,1.0,Incomplete,12.5
+STU1398,Rahul Smith,Data Science with Python,Data Science,2024-05-08,14,9.0,Incomplete,64.29
+STU1399,Grace Verma,Frontend with React & UI Design,Web Development,2024-01-08,10,10.0,Completed,100.0
+STU1400,Pooja Mehta,Frontend with React & UI Design,Web Development,2024-01-19,10,1.0,Incomplete,10.0
+STU1401,Ishita Davis,Python for Beginners,Programming,2024-04-28,10,2.0,Incomplete,20.0
+STU1402,Olivia Verma,Digital Marketing Strategies,Business & Marketing,2024-06-06,8,8.0,Completed,100.0
+STU1403,Riya Gupta,Machine Learning & Deep Learning,Data Science,2024-04-06,16,3.0,Incomplete,18.75
+STU1404,Ethan Martinez,Digital Marketing Strategies,Business & Marketing,2024-05-27,8,8.0,Completed,100.0
+STU1405,Karan Miller,Data Science with Python,Data Science,2024-04-25,14,7.0,Incomplete,50.0
+STU1406,David Brown,Digital Marketing Strategies,Business & Marketing,2024-04-17,8,4.0,Incomplete,50.0
+STU1407,Daniel Kumar,Data Science with Python,Data Science,2024-05-10,14,14.0,Completed,100.0
+STU1408,Zoe Kumar,Python for Beginners,Programming,2024-06-09,10,0.0,Incomplete,0.0
+STU1409,Pooja Martinez,Digital Marketing Strategies,Business & Marketing,2024-06-28,8,8.0,Completed,100.0
+STU1410,Vikram Nair,Python for Beginners,Programming,2024-05-07,10,1.0,Incomplete,10.0
+STU1411,Tanvi Iyer,Data Science with Python,Data Science,2024-03-09,14,14.0,Completed,100.0
+STU1412,Sneha Reddy,Product Management Essentials,Business & Marketing,2024-06-10,8,1.0,Incomplete,12.5
+STU1413,Riya Reddy,Product Management Essentials,Business & Marketing,2024-06-16,8,8.0,Completed,100.0
+STU1414,Rahul Reddy,Full-Stack Web Development,Web Development,2024-02-16,15,15.0,Completed,100.0
+STU1415,Aarav Johnson,Full-Stack Web Development,Web Development,2024-05-27,15,15.0,Completed,100.0
+STU1416,Daniel White,Data Science with Python,Data Science,2024-03-27,14,14.0,Completed,100.0
+STU1417,Ryan Kumar,Java Programming Fundamentals,Programming,2024-03-07,12,12.0,Completed,100.0
+STU1418,Rohan Singh,Data Science with Python,Data Science,2024-04-26,14,0.0,Incomplete,0.0
+STU1419,Liam White,Full-Stack Web Development,Web Development,2024-05-21,15,15.0,Completed,100.0
+STU1420,Liam White,Frontend with React & UI Design,Web Development,2024-04-24,10,7.0,Incomplete,70.0
+STU1421,Chloe Verma,Frontend with React & UI Design,Web Development,2024-02-07,10,2.0,Incomplete,20.0
+STU1422,Karan Iyer,Frontend with React & UI Design,Web Development,2024-03-12,10,10.0,Completed,100.0
+STU1423,Arjun Johnson,Python for Beginners,Programming,2024-05-26,10,10.0,Completed,100.0
+STU1424,Neha Wilson,Machine Learning & Deep Learning,Data Science,2024-06-02,16,9.0,Incomplete,56.25
+STU1425,Karan Anderson,Python for Beginners,Programming,2024-01-19,10,6.0,Incomplete,60.0
+STU1426,Ishita Iyer,Machine Learning & Deep Learning,Data Science,2024-06-23,16,1.0,Incomplete,6.25
+STU1427,Ishita Verma,Data Science with Python,Data Science,2024-04-29,14,14.0,Completed,100.0
+STU1428,Pooja Reddy,Digital Marketing Strategies,Business & Marketing,2024-03-01,8,8.0,Completed,100.0
+STU1429,Olivia Martinez,Data Science with Python,Data Science,2024-01-30,14,14.0,Completed,100.0
+STU1430,Liam Brown,Python for Beginners,Programming,2024-06-09,10,10.0,Completed,100.0
+STU1431,Neha Brown,Python for Beginners,Programming,2024-03-29,10,10.0,Completed,100.0
+STU1432,Olivia White,Frontend with React & UI Design,Web Development,2024-01-02,10,3.0,Incomplete,30.0
+STU1433,Sophia Iyer,Full-Stack Web Development,Web Development,2024-03-02,15,8.0,Incomplete,53.33
+STU1434,Grace Brown,Python for Beginners,Programming,2024-05-28,10,5.0,Incomplete,50.0
+STU1435,Sneha Martinez,Python for Beginners,Programming,2024-01-20,10,10.0,Completed,100.0
+STU1436,Rohan Johnson,Full-Stack Web Development,Web Development,2024-06-20,15,15.0,Completed,100.0
+STU1437,Noah Martinez,Python for Beginners,Programming,2024-05-16,10,10.0,Completed,100.0
+STU1438,Alex Sharma,Digital Marketing Strategies,Business & Marketing,2024-03-05,8,8.0,Completed,100.0
+STU1439,Sneha Singh,Full-Stack Web Development,Web Development,2024-03-27,15,15.0,Completed,100.0
+STU1440,Ananya Thomas,Python for Beginners,Programming,2024-03-16,10,10.0,Completed,100.0
+STU1441,Emma Davis,Python for Beginners,Programming,2024-05-29,10,1.0,Incomplete,10.0
+STU1442,Rohan Reddy,Product Management Essentials,Business & Marketing,2024-02-20,8,8.0,Completed,100.0
+STU1443,Ryan Miller,Data Science with Python,Data Science,2024-06-05,14,14.0,Completed,100.0
+STU1444,Daniel Iyer,Data Science with Python,Data Science,2024-03-07,14,2.0,Incomplete,14.29
+STU1445,Kavya Davis,Digital Marketing Strategies,Business & Marketing,2024-06-10,8,8.0,Completed,100.0
+STU1446,Zoe Anderson,Product Management Essentials,Business & Marketing,2024-04-14,8,8.0,Completed,100.0
+STU1447,Grace Verma,Product Management Essentials,Business & Marketing,2024-03-27,8,8.0,Completed,100.0
+STU1448,Ryan Joshi,Frontend with React & UI Design,Web Development,2024-06-01,10,10.0,Completed,100.0
+STU1449,Ethan Chopra,Data Science with Python,Data Science,2024-03-01,14,14.0,Completed,100.0
+STU1450,Noah Thomas,Python for Beginners,Programming,2024-01-27,10,10.0,Completed,100.0
+STU1451,Vikram Reddy,Frontend with React & UI Design,Web Development,2024-05-03,10,10.0,Completed,100.0
+STU1452,Ava Johnson,Machine Learning & Deep Learning,Data Science,2024-06-24,16,13.0,Incomplete,81.25
+STU1453,Grace Kumar,Data Science with Python,Data Science,2024-02-25,14,14.0,Completed,100.0
+STU1454,Sophia Wilson,Digital Marketing Strategies,Business & Marketing,2024-02-18,8,8.0,Completed,100.0
+STU1455,Rohan Brown,Python for Beginners,Programming,2024-05-15,10,10.0,Completed,100.0
+STU1456,Sneha Chopra,Machine Learning & Deep Learning,Data Science,2024-05-03,16,16.0,Completed,100.0
+STU1457,Alex Chopra,Python for Beginners,Programming,2024-02-08,10,10.0,Completed,100.0
+STU1458,Neha Smith,Machine Learning & Deep Learning,Data Science,2024-03-28,16,11.0,Incomplete,68.75
+STU1459,Aarav Thomas,Python for Beginners,Programming,2024-02-28,10,10.0,Completed,100.0
+STU1460,Chloe Johnson,Python for Beginners,Programming,2024-02-10,10,10.0,Completed,100.0
+STU1461,Pooja Nair,Python for Beginners,Programming,2024-01-11,10,10.0,Completed,100.0
+STU1462,Mia Martinez,Full-Stack Web Development,Web Development,2024-05-18,15,15.0,Completed,100.0
+STU1463,Grace Anderson,Frontend with React & UI Design,Web Development,2024-02-15,10,10.0,Completed,100.0
+STU1464,Daniel Patel,Full-Stack Web Development,Web Development,2024-06-16,15,15.0,Completed,100.0
+STU1465,Tanvi Iyer,Product Management Essentials,Business & Marketing,2024-03-16,8,8.0,Completed,100.0
+STU1466,Aditya Kumar,Data Science with Python,Data Science,2024-03-30,14,3.0,Incomplete,21.43
+STU1467,Daniel White,Java Programming Fundamentals,Programming,2024-03-08,12,1.0,Incomplete,8.33
+STU1468,Grace Gupta,Digital Marketing Strategies,Business & Marketing,2024-05-06,8,8.0,Completed,100.0
+STU1469,Ananya Anderson,Java Programming Fundamentals,Programming,2024-03-16,12,1.0,Incomplete,8.33
+STU1470,Riya White,Product Management Essentials,Business & Marketing,2024-05-22,8,8.0,Completed,100.0
+STU1471,Siddharth Kumar,Python for Beginners,Programming,2024-01-10,10,5.0,Incomplete,50.0
+STU1472,Aarav Wilson,Product Management Essentials,Business & Marketing,2024-02-20,8,8.0,Completed,100.0
+STU1473,Ethan Verma,Python for Beginners,Programming,2024-01-02,10,6.0,Incomplete,60.0
+STU1474,Karan Gupta,Digital Marketing Strategies,Business & Marketing,2024-05-10,8,8.0,Completed,100.0
+STU1475,Chloe Gupta,Machine Learning & Deep Learning,Data Science,2024-03-05,16,9.0,Incomplete,56.25
+STU1476,Ishita Taylor,Product Management Essentials,Business & Marketing,2024-04-10,8,8.0,Completed,100.0
+STU1477,Liam Miller,Python for Beginners,Programming,2024-02-18,10,10.0,Completed,100.0
+STU1478,Emma Johnson,Machine Learning & Deep Learning,Data Science,2024-06-01,16,16.0,Completed,100.0
+STU1479,Ryan Taylor,Product Management Essentials,Business & Marketing,2024-04-08,8,2.0,Incomplete,25.0
+STU1480,Riya Brown,Machine Learning & Deep Learning,Data Science,2024-03-13,16,16.0,Completed,100.0
+STU1481,Ishita Smith,Full-Stack Web Development,Web Development,2024-05-01,15,15.0,Completed,100.0
+STU1482,Arjun Martinez,Full-Stack Web Development,Web Development,2024-02-10,15,11.0,Incomplete,73.33
+STU1483,Aditya Verma,Data Science with Python,Data Science,2024-04-13,14,14.0,Completed,100.0
+STU1484,Emma Johnson,Full-Stack Web Development,Web Development,2024-05-31,15,0.0,Incomplete,0.0
+STU1485,Ava Miller,Full-Stack Web Development,Web Development,2024-06-04,15,15.0,Completed,100.0
+STU1486,Emma Sharma,Digital Marketing Strategies,Business & Marketing,2024-06-13,8,8.0,Completed,100.0
+STU1487,Liam Harris,Python for Beginners,Programming,2024-05-05,10,2.0,Incomplete,20.0
+STU1488,Olivia Davis,Java Programming Fundamentals,Programming,2024-03-05,12,8.0,Incomplete,66.67
+STU1489,Grace Mehta,Product Management Essentials,Business & Marketing,2024-04-22,8,8.0,Completed,100.0
+STU1490,Daniel Wilson,Digital Marketing Strategies,Business & Marketing,2024-03-09,8,8.0,Completed,100.0
+STU1491,Ryan Joshi,Data Science with Python,Data Science,2024-03-28,14,14.0,Completed,100.0
+STU1492,Ava Wilson,Full-Stack Web Development,Web Development,2024-02-20,15,11.0,Incomplete,73.33
+STU1493,David Brown,Java Programming Fundamentals,Programming,2024-02-28,12,12.0,Completed,100.0
+STU1494,Noah Nair,Java Programming Fundamentals,Programming,2024-01-30,12,12.0,Completed,100.0
+STU1495,Riya Davis,Machine Learning & Deep Learning,Data Science,2024-05-01,16,16.0,Completed,100.0
+STU1496,David Singh,Data Science with Python,Data Science,2024-06-18,14,14.0,Completed,100.0
+STU1497,Ethan Patel,Full-Stack Web Development,Web Development,2024-02-04,15,15.0,Completed,100.0
+STU1498,Noah Harris,Python for Beginners,Programming,2024-03-08,10,7.0,Incomplete,70.0
+STU1499,Ryan White,Product Management Essentials,Business & Marketing,2024-03-27,8,2.0,Incomplete,25.0
+STU1500,David Smith,Product Management Essentials,Business & Marketing,2024-02-11,8,8.0,Completed,100.0
+STU1501,Ishita Taylor,Full-Stack Web Development,Web Development,2024-01-21,15,6.0,Incomplete,40.0
+STU1502,Rohan Mehta,Machine Learning & Deep Learning,Data Science,2024-05-20,16,1.0,Incomplete,6.25
+STU1503,Ava Gupta,Data Science with Python,Data Science,2024-01-19,14,0.0,Incomplete,0.0
+STU1504,Daniel Gupta,Digital Marketing Strategies,Business & Marketing,2024-03-25,8,8.0,Completed,100.0
+STU1505,Chloe Sharma,Full-Stack Web Development,Web Development,2024-01-05,15,15.0,Completed,100.0
+STU1506,Ishita Johnson,Python for Beginners,Programming,2024-06-12,10,10.0,Completed,100.0
+STU1507,Ishita Verma,Product Management Essentials,Business & Marketing,2024-02-16,8,2.0,Incomplete,25.0
+STU1508,Ryan Iyer,Digital Marketing Strategies,Business & Marketing,2024-01-20,8,6.0,Incomplete,75.0
+STU1509,Ava Martinez,Product Management Essentials,Business & Marketing,2024-01-12,8,8.0,Completed,100.0
+STU1510,Sophia Anderson,Frontend with React & UI Design,Web Development,2024-03-10,10,7.0,Incomplete,70.0
+STU1511,Sneha Chopra,Full-Stack Web Development,Web Development,2024-05-22,15,9.0,Incomplete,60.0
+STU1512,David Chopra,Data Science with Python,Data Science,2024-03-22,14,1.0,Incomplete,7.14
+STU1513,Grace Wilson,Product Management Essentials,Business & Marketing,2024-06-23,8,8.0,Completed,100.0
+STU1514,Rohan Martinez,Digital Marketing Strategies,Business & Marketing,2024-01-04,8,8.0,Completed,100.0
+STU1515,Rahul Singh,Python for Beginners,Programming,2024-03-07,10,4.0,Incomplete,40.0
+STU1516,Liam Singh,Python for Beginners,Programming,2024-01-13,10,10.0,Completed,100.0
+STU1517,Sneha Johnson,Data Science with Python,Data Science,2024-06-19,14,2.0,Incomplete,14.29
+STU1518,Vikram Anderson,Digital Marketing Strategies,Business & Marketing,2024-06-17,8,2.0,Incomplete,25.0
+STU1519,Vikram Brown,Product Management Essentials,Business & Marketing,2024-01-30,8,8.0,Completed,100.0
+STU1520,Siddharth White,Python for Beginners,Programming,2024-03-05,10,7.0,Incomplete,70.0
+STU1521,Olivia Sharma,Full-Stack Web Development,Web Development,2024-02-06,15,15.0,Completed,100.0
+STU1522,Rohan Chopra,Data Science with Python,Data Science,2024-05-06,14,6.0,Incomplete,42.86
+STU1523,Pooja Kumar,Product Management Essentials,Business & Marketing,2024-05-07,8,5.0,Incomplete,62.5
+STU1524,Lucas Joshi,Digital Marketing Strategies,Business & Marketing,2024-04-11,8,8.0,Completed,100.0
+STU1525,Zoe Mehta,Digital Marketing Strategies,Business & Marketing,2024-03-12,8,8.0,Completed,100.0
+STU1526,Riya Miller,Machine Learning & Deep Learning,Data Science,2024-06-21,16,16.0,Completed,100.0
+STU1527,Ethan Davis,Data Science with Python,Data Science,2024-05-03,14,5.0,Incomplete,35.71
+STU1528,Kavya Reddy,Java Programming Fundamentals,Programming,2024-02-03,12,6.0,Incomplete,50.0
+STU1529,Kavya Verma,Python for Beginners,Programming,2024-05-15,10,10.0,Completed,100.0
+STU1530,David Martinez,Digital Marketing Strategies,Business & Marketing,2024-04-29,8,8.0,Completed,100.0
+STU1531,Riya Taylor,Digital Marketing Strategies,Business & Marketing,2024-01-27,8,8.0,Completed,100.0
+STU1532,Ishita Singh,Product Management Essentials,Business & Marketing,2024-02-22,8,8.0,Completed,100.0
+STU1533,Chloe Anderson,Product Management Essentials,Business & Marketing,2024-01-31,8,2.0,Incomplete,25.0
+STU1534,Alex Brown,Machine Learning & Deep Learning,Data Science,2024-02-21,16,0.0,Incomplete,0.0
+STU1535,Alex Thomas,Frontend with React & UI Design,Web Development,2024-04-23,10,10.0,Completed,100.0
+STU1536,Aarav Brown,Product Management Essentials,Business & Marketing,2024-06-04,8,8.0,Completed,100.0
+STU1537,Liam Thomas,Digital Marketing Strategies,Business & Marketing,2024-02-22,8,8.0,Completed,100.0
+STU1538,Siddharth Verma,Java Programming Fundamentals,Programming,2024-01-12,12,4.0,Incomplete,33.33
+STU1539,Daniel Joshi,Data Science with Python,Data Science,2024-02-03,14,14.0,Completed,100.0
+STU1540,Olivia Anderson,Python for Beginners,Programming,2024-04-07,10,10.0,Completed,100.0
+STU1541,Zoe White,Product Management Essentials,Business & Marketing,2024-04-02,8,5.0,Incomplete,62.5
+STU1542,Alex Brown,Full-Stack Web Development,Web Development,2024-04-05,15,15.0,Completed,100.0
+STU1543,Olivia Nair,Java Programming Fundamentals,Programming,2024-06-20,12,7.0,Incomplete,58.33
+STU1544,David Taylor,Full-Stack Web Development,Web Development,2024-06-03,15,12.0,Incomplete,80.0
+STU1545,Vikram Singh,Full-Stack Web Development,Web Development,2024-05-24,15,8.0,Incomplete,53.33
+STU1546,David Davis,Data Science with Python,Data Science,2024-04-17,14,3.0,Incomplete,21.43
+STU1547,Lucas Davis,Python for Beginners,Programming,2024-06-23,10,10.0,Completed,100.0
+STU1548,Liam White,Full-Stack Web Development,Web Development,2024-02-17,15,11.0,Incomplete,73.33
+STU1549,Liam Sharma,Machine Learning & Deep Learning,Data Science,2024-04-14,16,4.0,Incomplete,25.0
+STU1550,Sophia Iyer,Frontend with React & UI Design,Web Development,2024-01-13,10,10.0,Completed,100.0
+STU1551,Aarav Davis,Machine Learning & Deep Learning,Data Science,2024-02-23,16,7.0,Incomplete,43.75
+STU1552,Pooja Martinez,Digital Marketing Strategies,Business & Marketing,2024-01-08,8,6.0,Incomplete,75.0
+STU1553,Grace Kumar,Machine Learning & Deep Learning,Data Science,2024-02-23,16,1.0,Incomplete,6.25
+STU1554,Karan Martinez,Machine Learning & Deep Learning,Data Science,2024-04-09,16,16.0,Completed,100.0
+STU1555,Lucas Singh,Digital Marketing Strategies,Business & Marketing,2024-01-13,8,8.0,Completed,100.0
+STU1556,Arjun Martinez,Data Science with Python,Data Science,2024-04-27,14,14.0,Completed,100.0
+STU1557,Alex Thomas,Python for Beginners,Programming,2024-04-11,10,2.0,Incomplete,20.0
+STU1558,Aditya Anderson,Python for Beginners,Programming,2024-03-21,10,10.0,Completed,100.0
+STU1559,Vikram Anderson,Frontend with React & UI Design,Web Development,2024-05-17,10,10.0,Completed,100.0
+STU1560,Rohan Kumar,Full-Stack Web Development,Web Development,2024-05-10,15,15.0,Completed,100.0
+STU1561,Daniel Patel,Full-Stack Web Development,Web Development,2024-01-17,15,15.0,Completed,100.0
+STU1562,Mia Harris,Java Programming Fundamentals,Programming,2024-03-30,12,9.0,Incomplete,75.0
+STU1563,Aditya Verma,Python for Beginners,Programming,2024-03-24,10,10.0,Completed,100.0
+STU1564,Liam Chopra,Python for Beginners,Programming,2024-01-16,10,10.0,Completed,100.0
+STU1565,Ethan Reddy,Data Science with Python,Data Science,2024-06-23,14,7.0,Incomplete,50.0
+STU1566,Arjun Mehta,Full-Stack Web Development,Web Development,2024-02-02,15,7.0,Incomplete,46.67
+STU1567,Mia Miller,Data Science with Python,Data Science,2024-04-26,14,11.0,Incomplete,78.57
+STU1568,Emma Reddy,Data Science with Python,Data Science,2024-05-11,14,6.0,Incomplete,42.86
+STU1569,Alex Taylor,Digital Marketing Strategies,Business & Marketing,2024-05-03,8,3.0,Incomplete,37.5
+STU1570,Liam Harris,Data Science with Python,Data Science,2024-01-04,14,14.0,Completed,100.0
+STU1571,Ava Gupta,Machine Learning & Deep Learning,Data Science,2024-01-17,16,6.0,Incomplete,37.5
+STU1572,Chloe Verma,Frontend with React & UI Design,Web Development,2024-04-15,10,10.0,Completed,100.0
+STU1573,Ishita Singh,Data Science with Python,Data Science,2024-04-13,14,2.0,Incomplete,14.29
+STU1574,Sophia Wilson,Full-Stack Web Development,Web Development,2024-04-11,15,11.0,Incomplete,73.33
+STU1575,Mia Verma,Digital Marketing Strategies,Business & Marketing,2024-02-26,8,8.0,Completed,100.0
+STU1576,Sophia Sharma,Product Management Essentials,Business & Marketing,2024-02-21,8,2.0,Incomplete,25.0
+STU1577,Alex Wilson,Python for Beginners,Programming,2024-02-23,10,10.0,Completed,100.0
+STU1578,Neha Brown,Product Management Essentials,Business & Marketing,2024-06-14,8,8.0,Completed,100.0
+STU1579,Mia Thomas,Machine Learning & Deep Learning,Data Science,2024-02-07,16,13.0,Incomplete,81.25
+STU1580,Alex Davis,Java Programming Fundamentals,Programming,2024-01-03,12,3.0,Incomplete,25.0
+STU1581,David Anderson,Data Science with Python,Data Science,2024-04-02,14,14.0,Completed,100.0
+STU1582,Mia Gupta,Product Management Essentials,Business & Marketing,2024-04-17,8,8.0,Completed,100.0
+STU1583,Karan Taylor,Machine Learning & Deep Learning,Data Science,2024-04-08,16,3.0,Incomplete,18.75
+STU1584,Ananya Martinez,Data Science with Python,Data Science,2024-03-04,14,14.0,Completed,100.0
+STU1585,Noah Martinez,Full-Stack Web Development,Web Development,2024-02-24,15,1.0,Incomplete,6.67
+STU1586,Karan Anderson,Java Programming Fundamentals,Programming,2024-06-02,12,12.0,Completed,100.0
+STU1587,Rahul Anderson,Python for Beginners,Programming,2024-04-17,10,10.0,Completed,100.0
+STU1588,Chloe White,Python for Beginners,Programming,2024-05-20,10,3.0,Incomplete,30.0
+STU1589,Olivia Anderson,Python for Beginners,Programming,2024-03-21,10,1.0,Incomplete,10.0
+STU1590,Ethan Gupta,Python for Beginners,Programming,2024-03-28,10,10.0,Completed,100.0
+STU1591,Aditya Patel,Python for Beginners,Programming,2024-06-04,10,3.0,Incomplete,30.0
+STU1592,Rohan Kumar,Full-Stack Web Development,Web Development,2024-06-19,15,15.0,Completed,100.0
+STU1593,Grace Gupta,Java Programming Fundamentals,Programming,2024-06-18,12,12.0,Completed,100.0
+STU1594,Vikram Singh,Data Science with Python,Data Science,2024-03-06,14,14.0,Completed,100.0
+STU1595,Aditya Smith,Digital Marketing Strategies,Business & Marketing,2024-06-24,8,8.0,Completed,100.0
+STU1596,Chloe Joshi,Machine Learning & Deep Learning,Data Science,2024-04-10,16,16.0,Completed,100.0
+STU1597,Ethan Davis,Full-Stack Web Development,Web Development,2024-04-02,15,15.0,Completed,100.0
+STU1598,Ishita Johnson,Python for Beginners,Programming,2024-05-20,10,10.0,Completed,100.0
+STU1599,Vikram Taylor,Java Programming Fundamentals,Programming,2024-01-09,12,12.0,Completed,100.0
+STU1600,Ethan Iyer,Python for Beginners,Programming,2024-06-03,10,10.0,Completed,100.0
+STU1111,Zoe Joshi,Java Programming Fundamentals,Programming,2024-06-24,12,12.0,Completed,100.0
+STU1420,Liam White,Frontend with React & UI Design,Web Development,2024-04-24,10,7.0,Incomplete,70.0
+STU1566,Arjun Mehta,Full-Stack Web Development,Web Development,2024-02-02,15,7.0,Incomplete,46.67
+STU1078,Mia Reddy,Python for Beginners,Programming,2024-04-19,10,10.0,Completed,100.0
+STU1182,Alex Reddy,Python for Beginners,Programming,2024-04-13,10,10.0,Completed,100.0
