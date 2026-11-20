@@ -131,5 +131,5 @@ jupyter notebook notebooks/online_course_completion_analysis.ipynb
    Provide retryable quizzes with instant explanations before graded barriers to maintain learner confidence and motivation.
 
 ---
-Check Out My Website :   ( http://localhost:8000/ )
+Check Out My Website :   ( https://e3ba0c549d4c45.app.lhr.life/ )
  Mansij Sharma's Data Science Mini Project (Roll No: 124712, Batch: 2026, Section: B2).*
